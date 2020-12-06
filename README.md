@@ -10,7 +10,9 @@ Python script includes:
 3. Write a function that lists the files in a path with a specific file extension.
 
 Failed to complete
+
 4. Could you provide a code that executes the query you have created previously
 in question 6 of SQL and export the result to a CSV?
+
 5. Can you write a code that executes a query in one database and insert the data
 in a different database?
